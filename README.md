@@ -14,4 +14,4 @@ All cards link to the five separate repositories. Three repositories contain app
 Modify `index.html` for project details and `styles.css` for the layout. No framework or build step required. The site is static and can be served from GitHub Pages.
 
 ## Accuracy
-No demo application is claimed to be live. Project performance figures, academic team work, and deployment status should be verified before adding new claims.
+No demo application is claimed to be live. Project performance figures, academic project contributions, and deployment status should be verified before adding new claims.
